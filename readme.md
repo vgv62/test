@@ -1,5 +1,8 @@
 # hello, world!
+I study in Netology 
+1.04.2023 
 
-# I study in Netology 
+# whot is you name?
 
-# 1.04.2023 
+# New street
+long street 425 mil
