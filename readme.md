@@ -1,5 +1,5 @@
 # hello, world!
 
-# I study in Netology 
+I study in Netology 
 
-# 1.04.2023 
+1.04.2023 
