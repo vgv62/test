@@ -1,8 +1,11 @@
-# hello, world!
-I study in Netology 
-1.04.2023 
-
-# whot is you name?
-
-# New street
-long street 425 mil
+# NeuroStartUp
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+*NeuroStartUp*
+— динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
+Наши преимущества:
+* 
+Высокая точность поиска
+* 
+Высокая скорость поиска
+* 
+Низкая цена
